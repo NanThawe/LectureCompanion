@@ -1,6 +1,7 @@
 # Lecture Companion
 
 AI-powered transcript generation, translation, and summarization for lectures.
+<img width="2534" height="1083" alt="image" src="https://github.com/user-attachments/assets/37f6785c-49e9-4e13-8f9f-48b9d983195e" />
 
 ## Features
 - **Transcript Generation**: YouTube URL or file upload (.pdf, .txt, .srt, .vtt)
